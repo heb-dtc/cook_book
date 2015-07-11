@@ -1,6 +1,6 @@
 # Yogurt Cake
 
-## Ingredients
+### Ingredients
 * 1 pot of yogurt 
 * 3 pots of flour
 * 2 pots of sugar  
@@ -10,7 +10,7 @@
 * 1 pack of heist
 * a bit of rum
 
-## Directions
+### Directions
 In a pot mix up the yogurt, the flour, the eggs and the oil.
 
 Add the heist and the vanilla sugar. Mix up.
