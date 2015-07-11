@@ -14,3 +14,5 @@ Mash up the avocado until you get a soft paste.
 Add olive oil until the mix gets more creamy.
 
 Add up salt and pepper.
+
+Squize the lemon juice into the mix. 
