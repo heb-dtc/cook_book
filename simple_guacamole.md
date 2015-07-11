@@ -15,4 +15,4 @@ Add olive oil until the mix gets more creamy.
 
 Add up salt and pepper.
 
-Squize the lemon juice into the mix. 
+Squeeze the lemon juice into the mix. 
