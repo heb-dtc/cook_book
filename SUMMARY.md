@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [tartare_de_boeuf](tartarede_boeuf.md)
-* yoghurt_cake
+* [yoghurt_cake](yoghurt_cake.md)
 
