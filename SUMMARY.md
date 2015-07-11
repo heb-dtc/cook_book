@@ -10,4 +10,5 @@
 * [rillettes_de_thon](rillettes_de_thon.md)
 * [simple_guacamole](simple_guacamole.md)
 * [chicken_curry](chicken_curry.md)
+* chicken_soup
 
