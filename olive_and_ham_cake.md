@@ -1,6 +1,6 @@
 # Olives and Ham cake 
 
-## Ingredients
+### Ingredients
 * 150g of flour
 * 200g of ham
 * 150g of olive 
@@ -10,7 +10,7 @@
 * 1 pack of heist
 * 1 spoon of oil
 
-## Directions
+### Directions
 Mix the flour and the milk together in a pan.
 
 Add the eggs and mix up.
