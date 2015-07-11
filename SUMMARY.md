@@ -9,4 +9,5 @@
 * [soft_chicken_leg_and_vegetable](soft_chicken_leg_and_vegetable.md)
 * [rillettes_de_thon](rillettes_de_thon.md)
 * [simple_guacamole](simple_guacamole.md)
+* chicken_curry
 
