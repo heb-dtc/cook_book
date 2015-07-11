@@ -5,4 +5,5 @@
 * [yoghurt_cake](yoghurt_cake.md)
 * [olive_and_ham_cake](olive_and_ham_cake.md)
 * [pesto](pesto.md)
+* chicken_pie
 
