@@ -7,4 +7,5 @@
 * [pesto](pesto.md)
 * [chicken_pie](chicken_pie.md)
 * [soft_chicken_leg_and_vegetable](soft_chicken_leg_and_vegetable.md)
+* rillettes_de_thon
 
