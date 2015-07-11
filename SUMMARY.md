@@ -12,4 +12,5 @@
 * [chicken_curry](chicken_curry.md)
 * [chicken_soup](chicken_soup.md)
 * [gallette_de_sarrasin](gallette_de_sarrasin.md)
+* quesadillas_de_pollo
 
