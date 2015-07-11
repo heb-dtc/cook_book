@@ -11,4 +11,5 @@
 * [simple_guacamole](simple_guacamole.md)
 * [chicken_curry](chicken_curry.md)
 * [chicken_soup](chicken_soup.md)
+* gallette_de_sarrasin
 
