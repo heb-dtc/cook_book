@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Second Chapter](second_chapter.md)
-* tartare_de_boeuf
+* [tartare_de_boeuf](tartarede_boeuf.md)
 
