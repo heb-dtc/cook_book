@@ -6,4 +6,5 @@
 * [olive_and_ham_cake](olive_and_ham_cake.md)
 * [pesto](pesto.md)
 * [chicken_pie](chicken_pie.md)
+* soft_chicken_leg_and_vegetable
 
