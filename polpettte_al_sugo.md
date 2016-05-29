@@ -18,6 +18,8 @@
 Put some garlic and olive oil into a pot.
 Add tomatoes sliced in four.
 Put high fire and cover.
+Add water if the tomatoes start to burn.
+After a while, add some basil and blend the tomatoes all together to get a nice liquid sauce.
 
 Mix the meat together in a bowl.
 Add the bread crumble.
