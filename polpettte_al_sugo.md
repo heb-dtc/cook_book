@@ -4,7 +4,7 @@
 ### Ingredients
 * *sausage meat (3 pieces)*
 * *beef 200g*
-* * 25g of parmesan*
+* *25g of parmesan*
 * *30g of crumbled bread* 
 * *1 egg* 
 * *salt, pepper, muscat nuts*
