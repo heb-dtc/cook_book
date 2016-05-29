@@ -14,4 +14,5 @@
 * [gallette_de_sarrasin](gallette_de_sarrasin.md)
 * [quesadillas_de_pollo](quesadillas_de_pollo.md)
 * [Boeuf Bourguignon](boeuf_bourguignon.md)
+* Strawberry pie
 
