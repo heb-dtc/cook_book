@@ -1,2 +1,2 @@
-# pancake
+# Pancake
 
