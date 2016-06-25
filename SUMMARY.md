@@ -16,5 +16,5 @@
 * [Boeuf Bourguignon](boeuf_bourguignon.md)
 * [Strawberry pie](strawberry_pie.md)
 * [Polpettte al sugo](polpettte_al_sugo.md)
-* pancake
+* [pancake](pancake.md)
 
