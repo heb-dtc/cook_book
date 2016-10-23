@@ -15,5 +15,6 @@ Add the potatoes and cover it all with bouillon.
 Put a lid on and let it cook until potatoes are soft.
 Then blend everything together.
 Add the cream and mix up.
+
 Let it cook a for a bit.
 ```
