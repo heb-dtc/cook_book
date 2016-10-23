@@ -1,4 +1,4 @@
-# potage_parmentier
+# Potage Parmentier
 
 ### Ingredients
 * *4 leaks*
