@@ -17,5 +17,5 @@
 * [Strawberry pie](strawberry_pie.md)
 * [Polpettte al sugo](polpettte_al_sugo.md)
 * [pancake](pancake.md)
-* potage_parmentier
+* [potage_parmentier](potageparmentier.md)
 
