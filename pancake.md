@@ -1,10 +1,10 @@
 # Pancake
 
 ### Ingredients
-* *3 eggs*
-* *30cl milk*
+* *2 eggs*
+* *20cl milk*
 * *250g flour* 
-* *40g of butter* 
+* *25g of butter* 
 * *20g of sugar* 
 * *heist*
 * *vanilla sugar*
@@ -13,7 +13,6 @@
 ### Directions
 ```
 Break the eggs and keep the white separated from the yellow.
-
 
 Melt the butter.
 
