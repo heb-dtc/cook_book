@@ -27,3 +27,22 @@ Add sugar if you want sugary pancakes. You can also play with the butter and add
 Cook the damn pancakes!!
 ```
 
+### Alternative (to try)
+
+
+### Ingredients
+* *3 small eggs*
+* *50cl milk*
+* *300g flour* 
+* *40g of butter* 
+* *2 t.spoon of sugar* 
+* *heist*
+* *vanilla sugar*
+* *1 t. spoon of salt*
+
+### Directions
+```
+Faites fondre le beurre au four à micro-ondes. Tamisez la farine avec le sel, la cassonade et la levure dans un saladier. Creusez un puits, puis versez-y le lait et le beurre fondu. Battez les œufs, puis ajoutez-les à la préparation. À l'aide d'un fouet, mélangez doucement le tout jusqu'à l'obtention d'une pâte bien homogène.
+```
+
+
