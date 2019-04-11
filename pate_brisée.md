@@ -1,5 +1,28 @@
 ### Pate brisée
 
+#### The "goto" recipe
+
+* 175 g of flour
+* 85 g of butter
+* 2 g of salt
+* 1 egg yolk
+* 6 cl of water 
+
+#### Make the dough
+```
+The butter should be soft and not to cold but not liquid and not warm!
+Mix the flour and the the salt.
+Add the pieces of butter and sand it. Stop when the flour color turns to ivory and the butter pieces are big like peas.
+Add the yolk in the middle and pour the water slowly. Mix using a fork until the dough starts to come together.
+Form a ball, wrap it and put it to the fridge for 30 minutes to 1 hour.
+```
+
+#### The "gluten" recipe
+
+Use the goto recipe but takes extra care when pouring the water. It is important to do it slowly and stop adding water when the dough looks good (even if all the water wasnt used).
+
+#### The "rich" recipe
+
 * 250 g of flour
 * 160 g of butter
 * 1 pinch of salt
