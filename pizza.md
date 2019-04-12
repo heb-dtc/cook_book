@@ -2,7 +2,7 @@
 
 #### ingredients
 
-* 225 g of flour
+* 225 g of flour / 250g of flour
 * 125 ml of lukewarm water
 * 30 ml of olive oil
 * 1 c. spoon of salt
