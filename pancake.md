@@ -32,7 +32,7 @@ Cook the damn pancakes!!
 
 ### Ingredients
 * *3 small eggs*
-* *50cl milk*
+* *30cl milk*
 * *300g flour* 
 * *40g of butter* 
 * *2 t.spoon of sugar* 
